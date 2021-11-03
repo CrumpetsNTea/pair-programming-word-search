@@ -1,4 +1,4 @@
-# Partner with Nick Y.
+# Developed in partnership with NYoshida44
 
 # Pair Programming: Word Search
 
